@@ -130,7 +130,7 @@ Q10. Write a Java Program for Counting the number of words in a string using use
 countWords()                   
 
 Output for 3b and 3c :-
-(https://github.com/Preetham8271/Advanced_Java/blob/main/3-StringHandling/Stringall.pn](https://github.com/Preetham8271/Advanced_Java/blob/main/3-StringHandling/stringall.png)
+https://github.com/Preetham8271/Advanced_Java/blob/main/3-StringHandling/stringall.png
 
 
 
