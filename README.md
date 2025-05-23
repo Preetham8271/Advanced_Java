@@ -1,9 +1,9 @@
 # Advanced Java
-**Subject Code**: BCS613D
-**Name** : Preetham Devadiga
-**USN**: 4AL22CS108
-**Sem/Section**: VI/B
-**Total Programs**: 28
+**Subject Code**: BCS613D<br>
+**Name** : Preetham Devadiga<br>
+**USN**: 4AL22CS108<br>
+**Sem/Section**: VI/B<br>
+**Total Programs**: 28<br>
 
 ---
 
